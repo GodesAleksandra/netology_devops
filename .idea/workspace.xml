@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f33710d-66ad-461a-b4f7-083a88131315" name="Changes" comment="Initial commit" />
+    <list default="true" id="8f33710d-66ad-461a-b4f7-083a88131315" name="Changes" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,9 +25,6 @@
         <option name="url" value="https://github.com/GodesAleksandra/netology_devops.git" />
       </UrlAndAccount>
     </option>
-  </component>
-  <component name="ProblemsViewState">
-    <option name="selectedIndex" value="1" />
   </component>
   <component name="ProjectId" id="205kaU2arHfjhV3nTZzD1mNkdiq" />
   <component name="ProjectViewState">
@@ -66,7 +65,21 @@
       <option name="project" value="LOCAL" />
       <updated>1635348123499</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Initial commit">
+      <created>1635349700518</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1635349700518</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial commit">
+      <created>1635349768014</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1635349768014</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
